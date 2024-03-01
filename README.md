@@ -52,3 +52,7 @@ We welcome any contributions you can make to improve our Egypt website! If you w
 ## Contributions
 Thank you for visiting  Egypt website! 
 Happy browsing! 🌍✨
+![Home Page](/src/assets/homePage.png)
+![Home PageResp](/src/assets/HomeRespPage.png)
+![SpecialPage](/src/assets/specialPage.png)
+![FotterPage](/src/assets/footerPage.png)
